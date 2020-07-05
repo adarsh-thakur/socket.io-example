@@ -1,0 +1,17 @@
+{
+  "name": "socket.io-example",
+  "version": "1.0.0",
+  "description": "A simple web app to create a chat-bot using socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "author": "adarsh.thakur",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
